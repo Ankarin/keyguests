@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+             --gradient: linear-gradient(to top left,#093028,#237A57);
+          --background: 178 98.4% 98.22%;
+          --foreground: 178 6.800000000000001% 0.44%;
+
+          --muted: 178 6.800000000000001% 91.1%;
+          --muted-foreground: 178 3.4000000000000004% 41.1%;
+
+          --popover: 178 35.599999999999994% 91.1%;
+          --popover-foreground: 178 6.800000000000001% 0.55%;
+
+          --card: 178 35.599999999999994% 91.1%;
+          --card-foreground: 178 6.800000000000001% 0.55%;
+
+          --border: 178 11.8% 89.44%;
+          --input: 178 11.8% 89.44%;
+
+          --primary: 178 68% 11%;
+          --primary-foreground: 178 1.36% 91.1%;
+
+          --secondary: 178 3.4000000000000004% 95.55%;
+          --secondary-foreground: 178 5.08% 11.1%;
+
+          --accent: 178 3.4000000000000004% 95.55%;
+          --accent-foreground: 178 5.08% 11.1%;
+
+          --destructive: 0 84.2% 60.2%;
+          --destructive-foreground: 0 0% 98%;
+
+          --ring: 178 68% 11%;
+
+          --radius: 0.5rem;
+  }
+
+  .dark {
+          /* Name: custom color palette
+             Author: Ilias Ism
+             URL: https://gradient.page */
+
+          /* CSS: .bg-gradient { background: var(--gradient) } */
+          --gradient: linear-gradient(to top left,#00bf8f,#001510);
+
+          --background: 175 65% 3.04%;
+          --foreground: 175 10% 96.9%;
+
+          --muted: 175 50% 11.4%;
+          --muted-foreground: 175 10% 53.8%;
+
+          --popover: 175 45% 4.94%;
+          --popover-foreground: 175 10% 96.9%;
+
+          --card: 175 45% 4.94%;
+          --card-foreground: 175 10% 96.9%;
+
+          --border: 175 50% 11.4%;
+          --input: 175 50% 11.4%;
+
+          --primary: 175 100% 38%;
+          --primary-foreground: 175 10% 96.9%;
+
+          --secondary: 175 50% 11.4%;
+          --secondary-foreground: 175 10% 96.9%;
+
+          --accent: 175 50% 11.4%;
+          --accent-foreground: 175 10% 96.9%;
+
+          --destructive: 0 62.8% 30.6%;
+          --destructive-foreground: 175 10% 96.9%;
+
+          --ring: 175 100% 38%;
+      }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Navbar": {
+    "1": "优势",
+    "2": "功能",
+    "3": "流程",
+    "4": "联系"
+  },
+  "HomePage": {
+    "top-label": "即将推出",
+    "title": "简化",
+    "accent": "按揭贷款",
+    "title2": "申请",
+    "about": "按揭贷款申请，从未如此简单。\n选用我们的业务方案，按揭贷款由申请到批核，从此自动化 。\n为用户提供绝对简单、绝对轻松的按揭贷款申请流程，是我们平台的夙愿。",
+    "label": "标签",
+    "locale": "简体中文",
+    "cta": "开始使用"
+  },
+  "Benefits": {
+    "label": "优势",
+    "title": "推动数字化转型",
+    "description": "我们帮助合作伙伴��数字转型的大趋势下脱颖而出。",
+    "benefits": {
+      "1": {
+        "title": "重塑银行品牌",
+        "description": "让我们的伙伴银行成为新世代用户的首选品牌之一。让现有客户更忠诚。"
+      },
+      "2": {
+        "title": "发掘潜在客户",
+        "description": "我们简单好用的贷款申请流程，完美照顾新世代用户的体验。"
+      },
+      "3": {
+        "title": "开拓更多业务机遇",
+        "description": "更多新客户，更多追加销售及交叉销售的机遇。"
+      },
+      "4": {
+        "title": "优化银行营运效率",
+        "description": "为银行后台大幅减少烦琐的人手工作量。"
+      }
+    }
+  },
+  "Features": {
+    "label": "功能",
+    "title": "帮助您在同行中脱颖而出的功能",
+    "description": "Keyguests 将整个按揭贷款申请过程自动化，并在充分考虑银行伙伴的信贷策略及内部政策的情况下，有能力实现快速而稳健的贷款批核。",
+    "features": {
+      "1": {
+        "title": "简单易用的申请流程",
+        "description": "客户只需少量的操作功夫即可在 Keyguests 平台上完成申请按揭贷款。我们平台致力提供最简单的用户体验和运作逻辑。"
+      },
+      "2": {
+        "title": "快速批核已成为可能",
+        "description": "借助技术赋能及我们建立的模型，按揭贷款���批核时间现在可以大幅压缩到几分钟。"
+      },
+      "3": {
+        "title": "稳健的客制化批核流程",
+        "description": "我们的模型会充分考虑监管要求、资产质素以及银行伙伴的信贷策略与信贷政策。"
+      },
+      "4": {
+        "title": "严格把关数据来源",
+        "description": "我们的平台优先使用经过政府验证的数据，降低伪造风险。"
+      },
+      "5": {
+        "title": "更高效的数据流通",
+        "description": "借户、贷款行和律师之间的数据流通现在可在几秒钟内完成，节省不必要的等待时间。"
+      },
+      "6": {
+        "title": "灵活成本",
+        "description": "合作伙伴的成功就是我们的成功。我们的平台不会向银行伙伴预先收款，所有费用均为可变成本。"
+      }
+    }
+  },
+"LocaleSwitcher": {
+    "selectLanguage": "选择语言",
+    "locale": {
+      "en": "English",
+      "zh-cn": "简体中文",
+      "zh-hk": "繁體中文"
+    }
+  },
+  "Team": {
+    "label": "团队",
+    "title": "认识团队",
+    "about": "Keyguests 的愿景，是让买房不再是成年人的痛苦、不再是令人感到烦恼的挑战。 \n这个梦，是我们努力的原动力，亦鞭策着我们团队时刻保持高标准。对于每一位成员，我们都要求具有相关的领域知识和行业经验。\n",
+    "members": {
+      "1": {
+        "first_name": "Nelson",
+        "last_name": "Chau",
+        "title": "首席执行官",
+        "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum ipsum sint enim exercitationem ex autem corrupti quas tenetur"
+      },
+      "2": {
+        "first_name": "Dmitry",
+        "last_name": "Loza",
+        "title": "首席技术官",
+        "description": "具有超过六年经验的软件工程师，曾在多个行业工作，从金融科技到医疗保健。"
+      }
+    }
+  },
+  "Contact": {
+    "label": "联系",
+    "title": "联系我们",
+    "description": "Keyguests 会解决大部分繁琐的工作。我们的银行伙伴不需要在开发上花费额外的成本，但需要准备和我们的系统整合并与我们协调客制化需求。我们会共同努力满足监管部门的要求",
+    "find_us": "找到我们",
+    "address": "香港北角英皇道367-373号麦仕中心19楼A室",
+    "call_us": "联系我们",
+    "phone_number": "+1 (619) 123-4567",
+    "email": "发送邮件",
+    "email_address": "support@Keyguests.com",
+    "form": {
+      "first_name": {
+        "label": "名字",
+        "placeholder": "Leopoldo"
+      },
+      "last_name": {
+        "label": "姓氏",
+        "placeholder": "Miranda"
+      },
+      "email": {
+        "label": "邮箱",
+        "placeholder": "support@Keyguests.com"
+      },
+      "message": {
+        "label": "信息",
+        "placeholder": "您的信息..."
+      },
+      "send_button": "发送信息"
+    }
+  },
+  "Flow": {
+    "title": "拓展您的业务",
+    "description": "从营销和销售到运营和策略，我们拥有帮助您实现目标的专业知识。",
+    "items": {
+      "1": {
+        "title": "自定义域名集成",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit adipisicing。",
+        "pro": 0
+      },
+      "2": {
+        "title": "社交媒体集成",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit。Molestiae, dicta。",
+        "pro": 0
+      },
+      "3": {
+        "title": "电子邮件营销集成",
+        "description": "Lorem dolor sit amet adipisicing。",
+        "pro": 0
+      },
+      "4": {
+        "title": "SEO优化",
+        "description": "Lorem ipsum dolor sit amet consectetur。",
+        "pro": 1
+      }
+    }
+  }
+}
